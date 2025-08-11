@@ -13,7 +13,7 @@ from datetime import datetime
 import json
 
 # Constants
-DATA_FILE = os.path.join("data", "scraped_texts.txt")
+DATA_FILE = os.path.join("JupiterScraper", "JupiterScraper", "data", "scraped_texts.txt")
 TOP_K = 5
 
 # Enhanced TF-IDF Vectorizer
