@@ -301,10 +301,10 @@ def main():
     suggestions = [
         "How does Jupiter help me track expenses?",
         "What fees should I know about?",
-        "Is my money secure with Jupiter?",
-        "What investment options do you offer?",
         "How do I open a savings account?",
-        "What are the transfer limits?"
+        "What are the transfer limits?",
+        "How does Jupiter savings work?",
+        "What are Jupiter's account features?"
     ]
     
     for i, suggestion in enumerate(suggestions):
