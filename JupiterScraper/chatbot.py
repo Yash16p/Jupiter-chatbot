@@ -303,7 +303,7 @@ def main():
         "What fees should I know about?",
         "How do I open a savings account?",
         "What are the transfer limits?",
-        "How does Jupiter savings work?",
+        # "How does Jupiter savings work?",
         "What are Jupiter's account features?"
     ]
     
